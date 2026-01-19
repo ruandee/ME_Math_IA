@@ -1,3 +1,4 @@
+## This model was built while I was messing around during post-hoc testing for the model in main. Not actually useful at all. Bad model
 import numpy as np 
 import pandas as pd 
 from statsmodels.regression.mixed_linear_model import MixedLM 
